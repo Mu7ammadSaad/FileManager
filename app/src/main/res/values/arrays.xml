@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_folder_labels">
+        <item>@string/default_folder_internal_memory_labels</item>
+        <item>@string/default_folder_download_labels</item>
+        <item>@string/default_folder_music_labels</item>
+        <item>@string/default_folder_pictures_labels</item>
+    </string-array>
+
+    <string-array name="settings_default_folder_values">
+        <item>@string/default_folder_internal_memory_values</item>
+        <item>@string/default_folder_download_values</item>
+        <item>@string/default_folder_music_values</item>
+        <item>@string/default_folder_pictures_values</item>
+    </string-array>
+</resources>

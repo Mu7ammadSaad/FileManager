@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/action_settings"
+    >
+
+    <ListPreference
+        android:defaultValue="@string/settings_default_folder_default"
+        android:entries="@array/settings_default_folder_labels"
+        android:entryValues="@array/settings_default_folder_values"
+        android:key="@string/settings_default_folder_key"
+        android:title="@string/setting_activity_label"
+        />
+</PreferenceScreen>

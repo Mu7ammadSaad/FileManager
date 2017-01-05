@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">File Manager</string>
+
+    <string name="action_settings">Setting</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="setting_activity_label">Settings</string>
+    <!-- Strings For Default Folder Preference [CHAR LIMIT=30] -->
+    <string name="settings_default_folder_label">Default Folder</string>
+    <string name="settings_default_folder_key" translatable="false">default folder</string>
+    <string name="settings_default_folder_default" translatable="false">""</string>
+
+    <string name="default_folder_pictures_labels" >Pictures</string>
+    <string name="default_folder_pictures_values" >/Pictures</string>
+
+    <string name="default_folder_internal_memory_labels" >Internal Memory</string>
+    <string name="default_folder_internal_memory_values" ></string>
+
+    <string name="default_folder_music_labels" >Music</string>
+    <string name="default_folder_music_values" >/Music</string>
+
+    <string name="default_folder_download_labels" >Download</string>
+    <string name="default_folder_download_values" >/Download</string>
+</resources>
